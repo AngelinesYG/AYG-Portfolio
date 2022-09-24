@@ -4,7 +4,8 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Angelines Yaport-Garcia Portfolio
+  (Using the Gatsby Starter Portfolio: Cara)
 </h1>
 
 <p align="center">
