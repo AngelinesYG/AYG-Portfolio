@@ -12,7 +12,7 @@ import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 
 const NotFound = () => (
   <Layout>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <Seo title="404 - Not Found" />
     <Parallax pages={1}>
       <div>
